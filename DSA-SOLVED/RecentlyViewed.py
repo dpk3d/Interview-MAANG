@@ -9,6 +9,7 @@ Starting with empty Recently viewed items page and the given a list of items in 
 return the resulting order of the items on the page from top to Bottom.
 
 Note : Two item names are only the same if each of their character is exactly same.
+
 Update the function recentItems. it has following property.
 string logs[n]:  the items viewed in chronological order.
 
